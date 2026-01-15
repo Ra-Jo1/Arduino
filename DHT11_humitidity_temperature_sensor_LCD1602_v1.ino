@@ -1,4 +1,4 @@
-//print humidity and temperature with DHT11 arduino on lcd screen
+//print humidity and temperature with DHT11 arduino on lcd 1602 screen
 
 #include <DHT.h>
 #define Type DHT11
