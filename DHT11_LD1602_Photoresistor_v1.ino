@@ -1,3 +1,4 @@
+//print humidity and temperature with DHT11 arduino on lcd 1602 screen + photoresistor
 #include <DHT.h>
 #include <LiquidCrystal.h>
 #define Type DHT11
