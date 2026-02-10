@@ -1,6 +1,6 @@
 # There is 2 codes 
 # First Arduino code in C++ for the electronic
-# Second Python to grab the data 
+# Second Python code is to grab the data 
 
 # ----------------HERE THE SECOND CODE IN PYTHON :-----------------
 
